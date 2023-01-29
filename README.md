@@ -1,5 +1,3 @@
-Looking for a job or internship as a Junior Frontend Developer. Preferred way of working remotely.
-
 At the moment, I have been actively studying on Hexlet since September 26, 2022. Before the courses, 2 years ago, I independently studied layout (html, css) and js, and also implemented several projects, but periodically had to take a break because of my studies at the university. Now, I am resolutely and actively developing, I have already decided 2 projects.
 Also, studied salesforce and apex. I have been using a PC since I was 4 years old (:
 
