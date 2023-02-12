@@ -1,5 +1,5 @@
-At the moment, I have been actively studying on Hexlet since September 26, 2022. Before the courses, 2 years ago, I independently studied layout (html, css) and js, and also implemented several projects, but periodically had to take a break because of my studies at the university. Now, I am resolutely and actively developing, I have already decided 2 projects.
-Also, studied salesforce and apex. I have been using a PC since I was 4 years old (:
+I have been using a PC since the age of 4 (: 4 years ago, I studied layout (html, css) and js on my own, and also implemented several projects. I worked as a layout designer for 3 years and did freelance work. I also studied salesforce and apex. Due to my studies at the university, I had to take pause. Now, I am resolutely and actively developing. Since September 2022, I have been studying on Hexlet and implemented 2 projects.
+Here are examples of some projects:
 
 Here are examples of some projects:
 
