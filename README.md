@@ -1,5 +1,4 @@
-I have been using a PC since the age of 4 (: 2 years ago, I studied layout (html, css) and js on my own, and also implemented several projects. I worked as a layout designer for 1 year. I also studied salesforce and apex. Due to my studies at the university, I had to take pause. Now, I am resolutely and actively developing. Since September 2022, I have been studying on Hexlet and implemented 2 projects.
-Here are examples of some projects:
+I have been using a PC since the age of 4 (: I started learning layout (html, css) and js on my own in 2020, and also implemented several projects. I worked as a layout designer for 1 year. I also studied salesforce and apex. Due to my studies at the university, I had to take pause. Now, I am resolutely and actively developing. Since September 2022, I have been studying on Hexlet and implemented 2 projects.
 
 Here are examples of some projects:
 
