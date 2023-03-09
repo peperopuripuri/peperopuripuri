@@ -2,16 +2,16 @@ I have been using a PC since the age of 4 (: I started learning layout (html, cs
 
 Here are examples of some projects:
 
-1. Responsive layout with flex - [https://github.com/ayayalice/practice-3](https://github.com/peperopuripuri/CSS-adaptive-flex-practice)
-2. My first JS project before learning Hexlet - [https://github.com/ayayalice/practice-2](https://github.com/peperopuripuri/JS-practice)
-3. Brain Games - [https://github.com/ayayalice/frontend-project-44](https://github.com/peperopuripuri/JS-practice)
+1. [Responsive layout with flex](https://github.com/peperopuripuri/CSS-adaptive-flex-practice)
+2. [My first JS project before learning Hexlet](https://github.com/peperopuripuri/JS-practice)
+3. [Brain Games](https://github.com/peperopuripuri/JS-practice)
 Console game with 5 types of arithmetic jobs.
 Stack: JS, Git, nodejs, npm
 Skills gained:
 ◕ Better understanding of Git and the terminal
 ◕ Began to better understand the basic principles of JS
 
-4. Difference Calculator - [https://github.com/ayayalice/frontend-project-46](https://github.com/peperopuripuri/Difference-Calculator)
+4. [Difference Calculator](https://github.com/peperopuripuri/Difference-Calculator)
 A program that determines the difference between two data structures.
 Supports JSON/YAML file formats and 3 output formats (plain, stylish, json).
 Stack: JS, Git, nodejs, npm, lodash, commander
